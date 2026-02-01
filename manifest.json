@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "ChatGPT Translate EXPIREMNTAL!!",
+  "name": "ChatGPT Translate",
   "version": "2.0.1",
   "description": "Use ChatGPT for translations right on Google Translate",
   "host_permissions": [
